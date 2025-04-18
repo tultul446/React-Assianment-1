@@ -3,7 +3,7 @@ import { Button } from '@mui/material';
 import ArrowOutwardIcon from '@mui/icons-material/ArrowOutward';
 function Hero() {
   return (
-    <section className='h-screen bg-cover bg-center flex items-center grid lg:grid-cols-2 md:grid-cols-2 sm:grid-row  mt-10 lg:space-y-10 p-5 ' style={{ backgroundImage:"url(public/Img.png)"}} >
+    <section className='h-screen bg-cover bg-center flex items-center grid lg:grid-cols-2 md:grid-cols-2 sm:grid-row  mt-10 lg:space-y-10 p-5 ' style={{ backgroundImage:"url(src/assets/Img.png)"}} >
       
   <div className='text-white ml-10 max-w-auto mt-2 lg:ml-64'>
 

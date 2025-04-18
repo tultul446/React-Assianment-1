@@ -5,7 +5,7 @@ function EmailList() {
   
     
   return (
-    <section className='h-screen bg-cover bg-center items-center text-center  lg:space-y-10 py-5  max-w-auto text-white max-w-auto' style={{ backgroundImage:"url(public/BG.png)"}}>
+    <section className='h-screen bg-cover bg-center items-center text-center  lg:space-y-10 py-5  max-w-auto text-white max-w-auto' style={{ backgroundImage:"url(src/assets/BG.png)"}}>
       
     <div className='md:mt-36 lg:mt-36 mt-16'>
      <h2 className='lg:text-4xl md:text-3xl text-2xl text[#FFFFFF] lg:mt-56 sm:mt-16'>Train your aiDR on your... </h2>
