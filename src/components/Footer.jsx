@@ -1,6 +1,6 @@
 import React from 'react'
 import { Typography } from '@mui/material'
-import Logo from './Logo'
+import Logo from './Logo';
 function Footer() {
   return (
     <section className='lg:flex bg-[#07292F]  lg:space-x-[960px]  lg:py-10 md:py-6 py-3 px-5 max-w-auto max-h-auto'>
