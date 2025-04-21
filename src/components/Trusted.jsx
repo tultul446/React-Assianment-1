@@ -12,11 +12,11 @@ function Trusted() {
       <div className='grid lg:grid-cols-5 md:grid-cols-3 grid-cols-2 sm:grid-row animate-bounce  lg:ml-56 md:ml-34 ml-5 lg:gap-9 md:gap-5 sm:gap-2 px-10 mt-5'>
       
 
-      <img className='w-18 ' src="public/BackHub logo.png" alt="" />
-      <img className='w-18 ' src="public/CableLabs logo.png" alt="" />
-      <img className='w-18 ' src="public/DBS logo.png" alt="" />
-      <img className='w-18 ' src="public/EasyEuro logo.png" alt="" />
-      <img className='w-18 ' src="public/AMD logo.png" alt="" />
+      <img className='w-18 ' src="./BackHub logo.png" alt="" />
+      <img className='w-18 ' src="./CableLabs logo.png" alt="" />
+      <img className='w-18 ' src="./DBS logo.png" alt="" />
+      <img className='w-18 ' src="./EasyEuro logo.png" alt="" />
+      <img className='w-18 ' src="./AMD logo.png" alt="" />
       </div>
 
     </section>
