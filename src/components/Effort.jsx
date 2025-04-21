@@ -18,7 +18,7 @@ function Effort() {
 
   return (
     
-    <section className='h-screen bg-cover bg-center flex items-center grid lg:grid-cols-2 grid-row  p-5 ' style={{ backgroundImage:"url(src/assets/Img.png)"}}>
+    <section className='h-screen bg-cover bg-center flex items-center grid lg:grid-cols-2 grid-row  p-5 ' style={{ backgroundImage:"url(./Img.png)"}}>
       
   <div className='lg:ml-36 md:ml-16 max-w-auto'>
 
